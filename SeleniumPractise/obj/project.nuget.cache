@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wOGrZJMZpLuW/zOIDdrewQeRkAnySaDwlzuog0I/s+3xyGhGWZU2oLOqU3ne+O+NQutG5DWbOXflVhTVx8SnCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\PureGym\\SeleniumPractise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.5300\\selenium.webdriver.chromedriver.103.0.5060.5300.nupkg.sha512"
+  ],
+  "logs": []
+}
