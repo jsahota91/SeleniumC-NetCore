@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wOGrZJMZpLuW/zOIDdrewQeRkAnySaDwlzuog0I/s+3xyGhGWZU2oLOqU3ne+O+NQutG5DWbOXflVhTVx8SnCw==",
+  "dgSpecHash": "SlzBSHtX+DKaG4HVGmK+HZz4l/vwr5dxphNGnvwZDhJTz5po+Bmi8vM4FK9vLUn34+FYwpT9fTkH1ONZm62Iww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\PureGym\\SeleniumPractise.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\SeleniumPractise\\SeleniumPractise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",

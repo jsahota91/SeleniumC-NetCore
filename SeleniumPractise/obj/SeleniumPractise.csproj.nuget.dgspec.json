@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\SeleniumPractise\\PureGym\\SeleniumPractise.csproj": {}
+    "C:\\Users\\user\\source\\repos\\SeleniumPractise\\SeleniumPractise\\SeleniumPractise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\SeleniumPractise\\PureGym\\SeleniumPractise.csproj": {
+    "C:\\Users\\user\\source\\repos\\SeleniumPractise\\SeleniumPractise\\SeleniumPractise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\PureGym\\SeleniumPractise.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\SeleniumPractise\\SeleniumPractise.csproj",
         "projectName": "SeleniumPractise",
-        "projectPath": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\PureGym\\SeleniumPractise.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\SeleniumPractise\\SeleniumPractise.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\PureGym\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\SeleniumPractise\\SeleniumPractise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
