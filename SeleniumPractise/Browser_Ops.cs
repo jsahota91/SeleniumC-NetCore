@@ -11,32 +11,32 @@ namespace SeleniumPractise
 {
     public class Browser_Ops
     {
-        IWebDriver driver;
+        IWebDriver Driver;
 
         public void InitBrowser()
         {
-            driver = new ChromeDriver();
-            driver.Manage().Window.Maximize();
+            Driver = new ChromeDriver();
+            Driver.Manage().Window.Maximize();
         }
 
         public string Title()
         {
-            return driver.Title;
+            return Driver.Title;
         }
 
         public void GoTo(string url)
         {
-            driver.Url = url;
+            Driver.Url = url;
         }
 
         public void Close()
         {
-            driver.Quit();
+            Driver.Quit();
         }
 
         public IWebDriver GetDriver()
         {
-            return driver;
+            return Driver;
         }
     }
 
